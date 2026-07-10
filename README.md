@@ -6,7 +6,7 @@ amt.dev — zsh
 
 # Yam Malla
 
-**Full Stack Developer & System Design Writer**
+**Full Stack Developer**
 
 Crafting scalable web applications with a focus on performance, simplicity, and continuous improvement.
 
@@ -74,8 +74,12 @@ AI          LangChain · Spring AI · LLM agents · prompt workflows
 ## `> github_activity`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amritmalla&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&title_color=22C55E&icon_color=22C55E&text_color=c9d1d9" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritmalla&layout=compact&theme=transparent&hide_border=true&title_color=22C55E&text_color=c9d1d9" alt="Top languages" height="165" />
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api?username=amritmalla&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&title_color=22C55E&icon_color=22C55E&text_color=c9d1d9" alt="Yam's GitHub stats" height="165" />
+  </a>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=amritmalla&layout=compact&theme=transparent&hide_border=true&title_color=22C55E&text_color=c9d1d9" alt="Top languages" height="165" />
+  </a>
 </p>
 
 ---
