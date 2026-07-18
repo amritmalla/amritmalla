@@ -183,14 +183,38 @@ beliefs:
 
 <div align="center">
 
-<p align="center">
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api?username=amritmalla&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&title_color=22C55E&icon_color=22C55E&text_color=c9d1d9" alt="Yam's GitHub stats" height="165" />
-  </a>
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=amritmalla&layout=compact&theme=transparent&hide_border=true&title_color=22C55E&text_color=c9d1d9" alt="Top languages" height="165" />
-  </a>
-</p>
+<!-- Streak Stats -->
+<a href="https://github.com/amritmalla">
+  <img width="400" src="https://streak-stats.demolab.com/?user=amritmalla&theme=github-dark&hide_border=true&background=0d1117&ring=22C55E&fire=22C55E&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=8b949e&sideNums=c9d1d9" alt="Streak Stats"/>
+</a>
+
+<br/><br/>
+
+<!-- GitHub Profile Summary Cards -->
+<a href="https://github.com/amritmalla">
+  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amritmalla&theme=github_dark" alt="GitHub Stats"/>
+</a>
+&nbsp;
+<a href="https://github.com/amritmalla">
+  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amritmalla&theme=github_dark" alt="Top Languages by Repo"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/amritmalla">
+  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amritmalla&theme=github_dark" alt="Top Languages by Commit"/>
+</a>
+&nbsp;
+<a href="https://github.com/amritmalla">
+  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amritmalla&theme=github_dark&utcOffset=5.75" alt="Productive Time"/>
+</a>
+
+<br/><br/>
+
+<!-- Profile Summary — wide card -->
+<a href="https://github.com/amritmalla">
+  <img width="820" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amritmalla&theme=github_dark" alt="Contribution Graph"/>
+</a>
 
 </div>
 
