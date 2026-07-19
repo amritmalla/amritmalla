@@ -11,11 +11,17 @@
 <br/>
 
 <!-- BADGES ROW -->
-[![Profile Views](https://komarev.com/ghpvc/?username=amritmalla&style=for-the-badge&color=161b22&label=PROFILE+VIEWS)](https://github.com/amritmalla)
+<a href="https://github.com/amritmalla">
+  <img src="https://komarev.com/ghpvc/?username=amritmalla&style=for-the-badge&color=161b22&label=PROFILE+VIEWS" alt="Profile Views"/>
+</a>
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-yammalla.com.np-22C55E?style=for-the-badge&labelColor=0d1117)](https://yammalla.com.np/)
+<a href="https://yammalla.com.np/">
+  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-yammalla.com.np-22C55E?style=for-the-badge&labelColor=0d1117" alt="Portfolio"/>
+</a>
 &nbsp;
-[![Followers](https://img.shields.io/github/followers/amritmalla?style=for-the-badge&color=161b22&labelColor=0d1117&logo=github)](https://github.com/amritmalla?tab=followers)
+<a href="https://github.com/amritmalla?tab=followers">
+  <img src="https://img.shields.io/github/followers/amritmalla?label=Followers&style=for-the-badge&labelColor=0d1117&color=161b22&logo=github&logoColor=white&cacheSeconds=3600" alt="GitHub Followers"/>
+</a>
 
 </div>
 
@@ -24,20 +30,11 @@
 
 ```yaml
 name: Yam Malla
-role: Full Stack Developer & AI Engineer
-experience: 6 years
+role: Full Stack Developer | AI Engineer
+experience: 6+ years
 location: Kathmandu, Nepal 🇳🇵
-availability: Open to worldwide remote
+availability: Open for remote opportunities
 
-currently:
-  building: "Claude Full Stack 2.0 — AI engineering skills from idea to production"
-  exploring: "LLM agents, tool use, RAG, Spring AI, system design at scale"
-  writing: "AI-Augmented System Design series"
-
-beliefs:
-  - "Performance and simplicity beat clever complexity"
-  - "Ship fast, learn faster"
-  - "Good architecture is a product feature"
 ```
 
 <br/>
